@@ -43,11 +43,11 @@
 | :--- | :--- |
 | **[🔬 Micro-laboratorios](https://github.com/byoffensive/micro-laboratorios/tree/main)** | Colección de prácticas, trabajos y proyectos de ASIR.|
 | **[🛡️ Bastionado de Servidores (Linux)](https://github.com/byoffensive/lab-bastionado-linux)** | Despliegue seguro de Apache SSL, Hardening SSH y Políticas PAM. |
-| **[🌐 Arquitectura Core de Red](https://github.com/byoffensive/lab-redes-dns-dhcp)** | Implementación de BIND9 (Split-DNS) e ISC DHCP Server. |
-| **[🚨 Security Operations (SOC)](https://github.com/byoffensive/lab-soc-logs)** | Detección de ataques de fuerza bruta, SQLi y exfiltración de datos. |
-| **[📋 Auditoría y Análisis de Amenazas](https://github.com/byoffensive/lab-auditoria-ransomware)** | Análisis forense de Ransomware y evaluación de la Tríada CIA. |
-| **[⚙️ Automatización IT (Scripting)](https://github.com/byoffensive/lab-scripting-automatizacion)** | Desarrollo de rutinas paramétricas en Bash y Batch (CMD). |
-| **[📊 Performance Tuning y Procesos](https://github.com/byoffensive/lab-sysadmin-core)** | Diagnóstico de cuellos de botella de CPU/RAM en entornos sin GUI (CLI). |
+| **[🌐 Arquitectura Core de Red *(en construcción)*](https://github.com/byoffensive/lab-redes-dns-dhcp)** | Implementación de BIND9 (Split-DNS) e ISC DHCP Server. |
+| **[🚨 Security Operations (SOC) *(en construcción)*](https://github.com/byoffensive/lab-soc-logs)** | Detección de ataques de fuerza bruta, SQLi y exfiltración de datos. |
+| **[📋 Auditoría y Análisis de Amenazas *(en construcción)*](https://github.com/byoffensive/lab-auditoria-ransomware)** | Análisis forense de Ransomware y evaluación de la Tríada CIA. |
+| **[⚙️ Automatización IT (Scripting)*(en construcción)*](https://github.com/byoffensive/lab-scripting-automatizacion)** | Desarrollo de rutinas paramétricas en Bash y Batch (CMD). |
+| **[📊 Performance Tuning y Procesos *(en construcción)*](https://github.com/byoffensive/lab-sysadmin-core)** | Diagnóstico de cuellos de botella de CPU/RAM en entornos sin GUI (CLI). |
 
 ---
 
