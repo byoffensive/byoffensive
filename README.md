@@ -41,6 +41,7 @@
 
 | 🚀 Proyecto | 📝 Descripción Técnica |
 | :--- | :--- |
+| **[🔬 Micro-laboratorios](https://github.com/byoffensive/micro-laboratorios/tree/main)** | Colección de prácticas, trabajos y proyectos de ASIR.|
 | **[🛡️ Bastionado de Servidores (Linux)](https://github.com/byoffensive/lab-bastionado-linux)** | Despliegue seguro de Apache SSL, Hardening SSH y Políticas PAM. |
 | **[🌐 Arquitectura Core de Red](https://github.com/byoffensive/lab-redes-dns-dhcp)** | Implementación de BIND9 (Split-DNS) e ISC DHCP Server. |
 | **[🚨 Security Operations (SOC)](https://github.com/byoffensive/lab-soc-logs)** | Detección de ataques de fuerza bruta, SQLi y exfiltración de datos. |
