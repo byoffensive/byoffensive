@@ -31,9 +31,9 @@
 
 <h2> 👨‍🚀 Sobre mí </h2>
 
-- ⚡ **Resolución bajo presión:** Mi experiencia como Técnico de Iluminación me ha forjado para mantener la cabeza fría, analizar problemas y aportar soluciones efectivas en entornos de alta exigencia en vivo; una 'soft skill' vital para la gestión de incidentes en IT.
-- 🎯 **Foco en Ciberseguridad:** Aunque me estoy formando en administración de sistemas y redes (ASIR), mi gran interés es la ciberseguridad, especialmente la seguridad ofensiva (*Red Team*). Disfruto aprendiendo cómo se estructuran las infraestructuras para entender sus vulnerabilidades y cómo protegerlas.
-- 💡 **Enfoque Creativo:** Mi faceta paralela como creador de contenido y videógrafo me aporta una perspectiva creativa y "fuera de la caja" frente a los retos tecnológicos, además de la capacidad para comunicar y documentar mis proyectos de forma clara y visual.
+-  **Resolución bajo presión:** Mi experiencia como Técnico de Iluminación me ha forjado para mantener la cabeza fría, analizar problemas y aportar soluciones efectivas en entornos de alta exigencia en vivo; una 'soft skill' vital para la gestión de incidentes en IT.
+-  **Foco en Ciberseguridad:** Aunque me estoy formando en administración de sistemas y redes (ASIR), mi gran interés es la ciberseguridad, especialmente la seguridad ofensiva (*Red Team*). Disfruto aprendiendo cómo se estructuran las infraestructuras para entender sus vulnerabilidades y cómo protegerlas.
+-  **Enfoque Creativo:** Mi faceta paralela como creador de contenido y videógrafo me aporta una perspectiva creativa y "fuera de la caja" frente a los retos tecnológicos, además de la capacidad para comunicar y documentar mis proyectos de forma clara y visual.
 
 ---
 
