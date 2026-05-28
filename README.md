@@ -1,8 +1,3 @@
-Trabajas en mi cuenta de GitHub (logueado como byoffensive). Reemplaza el README de mi perfil por la versión corregida de abajo (he juntado los badges en una sola línea para que no salgan apilados).
-
-1. Ve a https://github.com/byoffensive/byoffensive/edit/main/README.md
-2. Selecciona todo (Ctrl+A), bórralo y pega EXACTAMENTE este contenido:
-
 <div align="center">
 
 # ¡Hola, mundo! Soy Joan Arango Ortiz 👋
