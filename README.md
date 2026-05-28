@@ -14,7 +14,7 @@
 
 ## Sobre mí
 
-Estudio 2º de ASIR y me oriento hacia la seguridad ofensiva. Antes de dedicarme a los sistemas trabajé como técnico de iluminación en directo, donde los fallos se resuelven en el momento y sin red; esa forma de trabajar bajo presión es lo que mejor he trasladado a la administración de sistemas.
+Estudio 2º de ASIR y me oriento hacia la seguridad ofensiva. Mientras estudio sistemas trabajo como técnico de iluminación en directo, donde los fallos se resuelven en el momento y sin red; esa forma de trabajar bajo presión es lo que mejor he trasladado a la administración de sistemas.
 
 Me interesa entender cómo se construye una infraestructura para ver por dónde se rompe. Documento cada laboratorio de principio a fin.
 
